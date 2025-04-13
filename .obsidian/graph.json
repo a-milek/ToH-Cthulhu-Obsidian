@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Templates  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#dead  ",
+      "color": {
+        "a": 1,
+        "rgb": 8940909
+      }
+    },
+    {
+      "query": "path:NPC  ",
+      "color": {
+        "a": 1,
+        "rgb": 8271186
+      }
+    },
+    {
+      "query": "path:Lokacje  ",
+      "color": {
+        "a": 1,
+        "rgb": 5530422
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7132754626224479,
+  "close": true
+}

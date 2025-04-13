@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "1f1078b2c4500ea9",
+    "type": "split",
+    "children": [
+      {
+        "id": "381af92c2450fc59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca53305459fb6f85",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d58ae71e823b0162",
+    "type": "split",
+    "children": [
+      {
+        "id": "53b9ce1259c65674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b88f3104c3a35c1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d5b39f0892a5410",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dca55e432ea7bef0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2a8f323952595a25",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb2e5879993ee9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e68f7608bd0d0d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Organizacje/Mi-Go.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mi-Go"
+            }
+          },
+          {
+            "id": "adf08929b3ceab1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Organizacje/Mi-Go.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mi-Go"
+            }
+          },
+          {
+            "id": "18c65a5fe05249ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5bdc249397e9999c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Organizacje/Mi-Go.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mi-Go"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ca53305459fb6f85",
+  "lastOpenFiles": [
+    "Organizacje/Federated Oil and Chemical (FOC).md",
+    "Organizacje/Mi-Go.md",
+    "0- Session/Sesja 0- tworzenie postaci.md",
+    "res/Pasted image 20250409144620.png",
+    "res/Pasted image 20250409142648.png",
+    "res/Pasted image 20250409142231.png",
+    "res/Pasted image 20250404112757.png",
+    "Historia.md",
+    "NPC/Victor Pasqualle.md",
+    "NPC/Robert Blaine.md",
+    "NPC/Profesor Roger Harrold.md",
+    "NPC/Profesor Ashley Learmonth.md",
+    "NPC/Profesor Albert Wilmarth.md",
+    "NPC/Michael Abelard.md",
+    "NPC/John Jeffrey.md",
+    "NPC/Jethro Cratchett.md",
+    "NPC/Daphne Devine.md",
+    "NPC/Boyd Patterson.md",
+    "Glossary/Pasquallium.md",
+    "Lokacje/Złamane Wzgórze.md",
+    "Lokacje/Okrągłe Wzgórze.md",
+    "Glossary/Brama Międzywymiarowa.md",
+    "res/Pasted image 20250409131944.png",
+    "res/Pasted image 20250409125858.png",
+    "Lokacje/Zielona Góra.md",
+    "Lokacje/Uniwersytet Miskatonik.md",
+    "Templates/City Template.md",
+    "Templates/Scene Template.md",
+    "Cobbs' Corners.md",
+    "Boyd Patterson.md",
+    "Templates/Location Template.md",
+    "res/Pasted image 20250409115156.png",
+    "res/Pasted image 20250409114956.png",
+    "res/Pasted image 20250409114725.png",
+    "Organizacje",
+    "res/Chapter 1/Pasted image 20250328131833.png",
+    "Untitled.canvas",
+    "Untitled",
+    "res/Chapter 1/pdfcoffee.com_a-time-to-harvest-chaosium-call-of-cthulhu-campaign-pdf-free.pdf",
+    "res/Chapter 1",
+    "res",
+    "0- Session",
+    "Glossary",
+    "Factions",
+    "Lokacje",
+    "Clues"
+  ]
+}
