@@ -11,10 +11,14 @@
             "id": "ca53305459fb6f85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "0- Sessions/Sesja 0- tworzenie postaci.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesja 0- tworzenie postaci"
             }
           }
         ]
@@ -161,18 +165,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "ca53305459fb6f85",
   "lastOpenFiles": [
+    "res/Chapter 1/pdfcoffee.com_a-time-to-harvest-chaosium-call-of-cthulhu-campaign-pdf-free.pdf",
+    "res/Chapter 1/Pasted image 20250328131833.png",
+    "res/Pasted image 20250409144620.png",
+    "res/Pasted image 20250409142231.png",
+    "res/Pasted image 20250409125858.png",
+    "res/Pasted image 20250409115156.png",
+    "res/Pasted image 20250404112757.png",
+    "0- Sessions/Sesja 0- tworzenie postaci.md",
+    "14-04-2025.md",
+    "Untitled.canvas",
     "Organizacje/Federated Oil and Chemical (FOC).md",
     "Organizacje/Mi-Go.md",
-    "0- Session/Sesja 0- tworzenie postaci.md",
-    "res/Pasted image 20250409144620.png",
     "res/Pasted image 20250409142648.png",
-    "res/Pasted image 20250409142231.png",
-    "res/Pasted image 20250404112757.png",
     "Historia.md",
     "NPC/Victor Pasqualle.md",
     "NPC/Robert Blaine.md",
@@ -189,25 +200,19 @@
     "Lokacje/Okrągłe Wzgórze.md",
     "Glossary/Brama Międzywymiarowa.md",
     "res/Pasted image 20250409131944.png",
-    "res/Pasted image 20250409125858.png",
     "Lokacje/Zielona Góra.md",
     "Lokacje/Uniwersytet Miskatonik.md",
     "Templates/City Template.md",
     "Templates/Scene Template.md",
     "Cobbs' Corners.md",
     "Boyd Patterson.md",
-    "Templates/Location Template.md",
-    "res/Pasted image 20250409115156.png",
     "res/Pasted image 20250409114956.png",
     "res/Pasted image 20250409114725.png",
     "Organizacje",
-    "res/Chapter 1/Pasted image 20250328131833.png",
-    "Untitled.canvas",
     "Untitled",
-    "res/Chapter 1/pdfcoffee.com_a-time-to-harvest-chaosium-call-of-cthulhu-campaign-pdf-free.pdf",
     "res/Chapter 1",
     "res",
-    "0- Session",
+    "0- Sessions",
     "Glossary",
     "Factions",
     "Lokacje",
