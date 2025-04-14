@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Sesja 0- tworzenie postaci"
             }
+          },
+          {
+            "id": "new-graph-view",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       },
@@ -220,6 +230,8 @@
   },
   "active": "ca53305459fb6f85",
   "lastOpenFiles": [
+    "0- Sessions/Sesja 0- tworzenie postaci.md",
+    "0- Sessions",
     "ToH-Cthulhu-Obsidian/res/Pasted image 20250409144620.png",
     "ToH-Cthulhu-Obsidian/res/Pasted image 20250409142648.png",
     "ToH-Cthulhu-Obsidian/res/Pasted image 20250409142231.png",
@@ -264,8 +276,6 @@
     "ToH-Cthulhu-Obsidian/Historia.md",
     "ToH-Cthulhu-Obsidian/Glossary",
     "ToH-Cthulhu-Obsidian/0- Session",
-    "ToH-Cthulhu-Obsidian",
-    "res/Pasted image 20250409142231.png",
     "Untitled.canvas"
   ]
 }
