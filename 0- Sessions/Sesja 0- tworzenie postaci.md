@@ -46,3 +46,6 @@ Jeden student zna [[John Jeffrey]] (geologia)
 Ktoś zna [[Boyd Patterson]]
 
 Ktoś moze być przedstawicielem z [[Federated Oil and Chemical (FOC)]]
+
+## POST MORTEM
+Postać mateusza lubi Piwo 

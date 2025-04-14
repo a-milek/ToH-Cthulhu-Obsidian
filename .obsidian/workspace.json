@@ -13,79 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Historia"
-            }
-          },
-          {
-            "id": "801db0c46cf8aa73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test test"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "706682d0fa963c6c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eab7d23dfae30be6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0- Session/Sesja 0- tworzenie postaci.md",
+                "file": "0- Sessions/Sesja 0- tworzenie postaci.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Sesja 0- tworzenie postaci"
             }
-          },
-          {
-            "id": "fd705d2f597884ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/John Jeffrey.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "John Jeffrey"
-            }
-          },
-          {
-            "id": "71788a17b664e986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Boyd Patterson.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boyd Patterson"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,54 +169,53 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "801db0c46cf8aa73",
+  "active": "ca53305459fb6f85",
   "lastOpenFiles": [
-    "Historia.md",
     "Test test.md",
-    "0- Session/Sesja 0- tworzenie postaci.md",
     "0- Sessions/Sesja 0- tworzenie postaci.md",
+    "ToH-Cthulhu-Obsidian",
+    "0- Session/Sesja 0- tworzenie postaci.md",
+    "0- Session",
+    "res/Chapter 1/pdfcoffee.com_a-time-to-harvest-chaosium-call-of-cthulhu-campaign-pdf-free.pdf",
+    "res/Chapter 1/Pasted image 20250328131833.png",
+    "res/Pasted image 20250409144620.png",
+    "res/Pasted image 20250409142231.png",
+    "res/Pasted image 20250409125858.png",
+    "res/Pasted image 20250409115156.png",
+    "res/Pasted image 20250404112757.png",
+    "14-04-2025.md",
+    "Untitled.canvas",
+    "Organizacje/Federated Oil and Chemical (FOC).md",
+    "Organizacje/Mi-Go.md",
+    "res/Pasted image 20250409142648.png",
+    "Historia.md",
+    "NPC/Victor Pasqualle.md",
+    "NPC/Robert Blaine.md",
+    "NPC/Profesor Roger Harrold.md",
+    "NPC/Profesor Ashley Learmonth.md",
+    "NPC/Profesor Albert Wilmarth.md",
+    "NPC/Michael Abelard.md",
+    "NPC/John Jeffrey.md",
+    "NPC/Jethro Cratchett.md",
+    "NPC/Daphne Devine.md",
+    "NPC/Boyd Patterson.md",
+    "Glossary/Pasquallium.md",
+    "Lokacje/Złamane Wzgórze.md",
+    "Lokacje/Okrągłe Wzgórze.md",
+    "Glossary/Brama Międzywymiarowa.md",
+    "res/Pasted image 20250409131944.png",
+    "Lokacje/Zielona Góra.md",
+    "Lokacje/Uniwersytet Miskatonik.md",
+    "Templates/City Template.md",
+    "Templates/Scene Template.md",
+    "res/Pasted image 20250409114956.png",
+    "res/Pasted image 20250409114725.png",
+    "Organizacje",
+    "Untitled",
+    "res/Chapter 1",
+    "res",
     "0- Sessions",
-    "ToH-Cthulhu-Obsidian/res/Pasted image 20250409144620.png",
-    "ToH-Cthulhu-Obsidian/res/Pasted image 20250409142648.png",
-    "ToH-Cthulhu-Obsidian/res/Pasted image 20250409142231.png",
-    "ToH-Cthulhu-Obsidian/res/Pasted image 20250409131944.png",
-    "ToH-Cthulhu-Obsidian/res/Pasted image 20250409125858.png",
-    "ToH-Cthulhu-Obsidian/res/Pasted image 20250409115156.png",
-    "ToH-Cthulhu-Obsidian/res/Pasted image 20250409114956.png",
-    "ToH-Cthulhu-Obsidian/res/Pasted image 20250409114725.png",
-    "ToH-Cthulhu-Obsidian/res/Pasted image 20250404112757.png",
-    "ToH-Cthulhu-Obsidian/res/Chapter 1/pdfcoffee.com_a-time-to-harvest-chaosium-call-of-cthulhu-campaign-pdf-free.pdf",
-    "ToH-Cthulhu-Obsidian/Templates/Scene Template.md",
-    "ToH-Cthulhu-Obsidian/Templates/NPC Template.md",
-    "ToH-Cthulhu-Obsidian/Templates/Location Template.md",
-    "ToH-Cthulhu-Obsidian/Templates/Item Template.md",
-    "ToH-Cthulhu-Obsidian/Templates/City Template.md",
-    "ToH-Cthulhu-Obsidian/Templates",
-    "ToH-Cthulhu-Obsidian/Organizacje/Mi-Go.md",
-    "ToH-Cthulhu-Obsidian/Organizacje/Federated Oil and Chemical (FOC).md",
-    "ToH-Cthulhu-Obsidian/Organizacje",
-    "ToH-Cthulhu-Obsidian/NPC/Victor Pasqualle.md",
-    "ToH-Cthulhu-Obsidian/NPC/Robert Blaine.md",
-    "ToH-Cthulhu-Obsidian/NPC/Profesor Roger Harrold.md",
-    "ToH-Cthulhu-Obsidian/NPC/Profesor Ashley Learmonth.md",
-    "ToH-Cthulhu-Obsidian/NPC/Profesor Albert Wilmarth.md",
-    "ToH-Cthulhu-Obsidian/NPC/Michael Abelard.md",
-    "ToH-Cthulhu-Obsidian/NPC/John Jeffrey.md",
-    "ToH-Cthulhu-Obsidian/NPC/Jethro Cratchett.md",
-    "ToH-Cthulhu-Obsidian/NPC/Daphne Devine.md",
-    "ToH-Cthulhu-Obsidian/NPC/Boyd Patterson.md",
-    "ToH-Cthulhu-Obsidian/NPC",
-    "ToH-Cthulhu-Obsidian/res/Chapter 1/Pasted image 20250328131833.png",
-    "ToH-Cthulhu-Obsidian/res/Chapter 1",
-    "ToH-Cthulhu-Obsidian/res",
-    "ToH-Cthulhu-Obsidian/Lokacje/Złamane Wzgórze.md",
-    "ToH-Cthulhu-Obsidian/Lokacje/Zielona Góra.md",
-    "ToH-Cthulhu-Obsidian/Lokacje/Uniwersytet Miskatonik.md",
-    "ToH-Cthulhu-Obsidian/Lokacje/Okrągłe Wzgórze.md",
-    "ToH-Cthulhu-Obsidian/Lokacje/Cobb's Corners.md",
-    "ToH-Cthulhu-Obsidian/Lokacje",
-    "ToH-Cthulhu-Obsidian/Glossary",
-    "ToH-Cthulhu-Obsidian/0- Session",
-    "Untitled.canvas"
+    "Glossary",
+    "Factions"
   ]
 }
