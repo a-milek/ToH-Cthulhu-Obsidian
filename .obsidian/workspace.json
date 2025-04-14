@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0- Session/Sesja 0- tworzenie postaci.md",
+                "file": "Historia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesja 0- tworzenie postaci"
+              "title": "Historia"
             }
           },
           {
-            "id": "new-graph-view",
+            "id": "801db0c46cf8aa73",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Test test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "706682d0fa963c6c",
@@ -228,8 +233,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ca53305459fb6f85",
+  "active": "801db0c46cf8aa73",
   "lastOpenFiles": [
+    "Historia.md",
+    "Test test.md",
+    "0- Session/Sesja 0- tworzenie postaci.md",
     "0- Sessions/Sesja 0- tworzenie postaci.md",
     "0- Sessions",
     "ToH-Cthulhu-Obsidian/res/Pasted image 20250409144620.png",
@@ -270,10 +278,7 @@
     "ToH-Cthulhu-Obsidian/Lokacje/Uniwersytet Miskatonik.md",
     "ToH-Cthulhu-Obsidian/Lokacje/Okrągłe Wzgórze.md",
     "ToH-Cthulhu-Obsidian/Lokacje/Cobb's Corners.md",
-    "ToH-Cthulhu-Obsidian/Lokacje/Biblioteka Orne.md",
-    "ToH-Cthulhu-Obsidian/Lokacje/Arkham.md",
     "ToH-Cthulhu-Obsidian/Lokacje",
-    "ToH-Cthulhu-Obsidian/Historia.md",
     "ToH-Cthulhu-Obsidian/Glossary",
     "ToH-Cthulhu-Obsidian/0- Session",
     "Untitled.canvas"
